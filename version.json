@@ -1,0 +1,9 @@
+{
+  "Version": "1.0.0",
+  "ForgeVersion": "47.2.0",
+  "MinecraftVersion": "1.20.1",
+  "Files": [
+    { "Name": "jei.jar", "Url": "https://github.com/qazwsx10801/MyMinecraftMods/raw/main/mods/jei.jar" },
+    { "Name": "ironchest.jar", "Url": "https://github.com/qazwsx10801/MyMinecraftMods/raw/main/mods/ironchest.jar" }
+  ]
+}
